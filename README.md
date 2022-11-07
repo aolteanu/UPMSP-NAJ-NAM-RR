@@ -22,7 +22,7 @@ This folder contains 20 problem instances for all configurations combining the f
 
 ## Format
 
-Each problem instance is split into multipe files. All files pertaining to a problem instance have the following prefix: P`n`-`m`-`k`-`index`_`comp`, where n, m, k correspond to the previous parameters while index corresponds to the instance index (from 1 to 20 in our case).
+Each problem instance is split into multiple files. All files pertaining to a problem instance have the following prefix: P`n`-`m`-`k`-`index`_`comp`, where n, m, k correspond to the previous parameters while index corresponds to the instance index (from 1 to 20 in our case).
 
 The `comp` part indicates the type of data that can be found in the file:
 
